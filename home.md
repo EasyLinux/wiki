@@ -1,10 +1,8 @@
 <!-- TITLE: Acceuil -->
-<!-- SUBTITLE: Page d'acceuil du wiki -->
+<!-- SUBTITLE: Easylinux -->
 
-# Bienvenu sur ce wiki
-On va essayer d'éditer **un peu** ce texte ..
-* liste
-* a voir
-
+# Easylinux
+Notre mission est de vous procurez un moyen **simple** pour utiliser et configurer Linux.
+Nous mettons en oeuvre des outils d'administration et de suivi
 
 
